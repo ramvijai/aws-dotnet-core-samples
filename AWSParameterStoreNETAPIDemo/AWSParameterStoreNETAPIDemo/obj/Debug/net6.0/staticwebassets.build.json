@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LDlmhZvEu485RGMH37n3vKT+ijh+jQe8ModvrsPRdUk=",
+  "Source": "AWSParameterStoreNETAPIDemo",
+  "BasePath": "_content/AWSParameterStoreNETAPIDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

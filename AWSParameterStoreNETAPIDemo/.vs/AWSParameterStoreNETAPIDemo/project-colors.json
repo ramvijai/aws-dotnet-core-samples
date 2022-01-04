@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4b3fbbc7-0058-494c-8520-bdd1604ef667": {
+      "ProjectGuid": "4b3fbbc7-0058-494c-8520-bdd1604ef667",
+      "DisplayName": "AWSParameterStoreNETAPIDemo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
