@@ -26,3 +26,4 @@ C:\Users\ramvijai\Documents\Vijai\github\aws-dotnet-core-samples\DemoNetCoreWebA
 C:\Users\ramvijai\Documents\Vijai\github\aws-dotnet-core-samples\DemoNetCoreWebAPI\DemoNetCoreWebAPI\obj\Debug\net5.0\ref\DemoNetCoreWebAPI.dll
 C:\Users\ramvijai\Documents\Vijai\github\aws-dotnet-core-samples\DemoNetCoreWebAPI\DemoNetCoreWebAPI\obj\Debug\net5.0\DemoNetCoreWebAPI.pdb
 C:\Users\ramvijai\Documents\Vijai\github\aws-dotnet-core-samples\DemoNetCoreWebAPI\DemoNetCoreWebAPI\obj\Debug\net5.0\DemoNetCoreWebAPI.genruntimeconfig.cache
+C:\Users\ramvijai\Documents\Vijai\github\aws-dotnet-core-samples\DemoNetCoreWebAPI\DemoNetCoreWebAPI\obj\Debug\net5.0\DemoNetCoreWebAPI.csproj.AssemblyReference.cache
