@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ga4ZHD2c2WI60PC2A20gv3VO9pD4SISmG/l3+LFpUOk=",
+  "Source": "AWSSecretsManagerNETAPIDemo",
+  "BasePath": "_content/AWSSecretsManagerNETAPIDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
