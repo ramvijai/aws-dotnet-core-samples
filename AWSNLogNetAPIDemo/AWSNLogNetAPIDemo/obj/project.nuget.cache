@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "vjCJTryr/DfPulIzksVSK8hIFbfLd200+3v/eSBH5fTx7MRJ5M8IdWgjTSq15iPXb7HeEzqz46JG7Y39/N7OyA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ramvijai\\Documents\\Vijai\\github\\aws-dotnet-core-samples\\AWSNLogNetAPIDemo\\AWSNLogNetAPIDemo\\AWSNLogNetAPIDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ramvijai\\.nuget\\packages\\aws.logger.core\\3.0.0\\aws.logger.core.3.0.0.nupkg.sha512",
+    "C:\\Users\\ramvijai\\.nuget\\packages\\aws.logger.nlog\\3.0.0\\aws.logger.nlog.3.0.0.nupkg.sha512",
+    "C:\\Users\\ramvijai\\.nuget\\packages\\awssdk.cloudwatchlogs\\3.7.0.5\\awssdk.cloudwatchlogs.3.7.0.5.nupkg.sha512",
+    "C:\\Users\\ramvijai\\.nuget\\packages\\awssdk.core\\3.7.0.6\\awssdk.core.3.7.0.6.nupkg.sha512",
+    "C:\\Users\\ramvijai\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ramvijai\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ramvijai\\.nuget\\packages\\nlog\\4.5.0\\nlog.4.5.0.nupkg.sha512",
+    "C:\\Users\\ramvijai\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\ramvijai\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\ramvijai\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\ramvijai\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

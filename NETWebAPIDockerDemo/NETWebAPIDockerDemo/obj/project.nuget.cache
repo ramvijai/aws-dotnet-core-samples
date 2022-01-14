@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qqsm5E1cMi66tI8UyqZ8V2N5I3tvVT6xBEiKZUX5gFH9xj1AKlhs2Ox+hDxojWgAoUQ0Iijlw493ghGhtPIwNg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ramvijai\\Documents\\Vijai\\github\\aws-dotnet-core-samples\\NETWebAPIDockerDemo\\NETWebAPIDockerDemo\\NETWebAPIDockerDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ramvijai\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ramvijai\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ramvijai\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512",
+    "C:\\Users\\ramvijai\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\ramvijai\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\ramvijai\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\ramvijai\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

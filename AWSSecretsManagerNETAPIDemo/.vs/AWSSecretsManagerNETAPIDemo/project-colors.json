@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a4b96dfd-82fa-4bd9-b7ce-01a1891512e2": {
+      "ProjectGuid": "a4b96dfd-82fa-4bd9-b7ce-01a1891512e2",
+      "DisplayName": "AWSSecretsManagerNETAPIDemo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

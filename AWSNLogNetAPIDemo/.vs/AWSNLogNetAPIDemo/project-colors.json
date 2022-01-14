@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f026ca74-9321-4a69-a4c9-4592b0c7dd90": {
+      "ProjectGuid": "f026ca74-9321-4a69-a4c9-4592b0c7dd90",
+      "DisplayName": "AWSNLogNetAPIDemo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
