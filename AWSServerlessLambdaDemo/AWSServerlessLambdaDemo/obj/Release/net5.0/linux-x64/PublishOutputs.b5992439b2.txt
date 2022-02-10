@@ -1,0 +1,14 @@
+C:\Users\ramvijai\Documents\Vijai\github\aws-dotnet-core-samples\AWSServerlessLambdaDemo\AWSServerlessLambdaDemo\bin\Release\lambda-publish\AWSServerlessLambdaDemo
+C:\Users\ramvijai\Documents\Vijai\github\aws-dotnet-core-samples\AWSServerlessLambdaDemo\AWSServerlessLambdaDemo\bin\Release\lambda-publish\appsettings.Development.json
+C:\Users\ramvijai\Documents\Vijai\github\aws-dotnet-core-samples\AWSServerlessLambdaDemo\AWSServerlessLambdaDemo\bin\Release\lambda-publish\appsettings.json
+C:\Users\ramvijai\Documents\Vijai\github\aws-dotnet-core-samples\AWSServerlessLambdaDemo\AWSServerlessLambdaDemo\bin\Release\lambda-publish\aws-lambda-tools-defaults.json
+C:\Users\ramvijai\Documents\Vijai\github\aws-dotnet-core-samples\AWSServerlessLambdaDemo\AWSServerlessLambdaDemo\bin\Release\lambda-publish\AWSServerlessLambdaDemo.dll
+C:\Users\ramvijai\Documents\Vijai\github\aws-dotnet-core-samples\AWSServerlessLambdaDemo\AWSServerlessLambdaDemo\bin\Release\lambda-publish\AWSServerlessLambdaDemo.deps.json
+C:\Users\ramvijai\Documents\Vijai\github\aws-dotnet-core-samples\AWSServerlessLambdaDemo\AWSServerlessLambdaDemo\bin\Release\lambda-publish\AWSServerlessLambdaDemo.runtimeconfig.json
+C:\Users\ramvijai\Documents\Vijai\github\aws-dotnet-core-samples\AWSServerlessLambdaDemo\AWSServerlessLambdaDemo\bin\Release\lambda-publish\AWSServerlessLambdaDemo.pdb
+C:\Users\ramvijai\Documents\Vijai\github\aws-dotnet-core-samples\AWSServerlessLambdaDemo\AWSServerlessLambdaDemo\bin\Release\lambda-publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Users\ramvijai\Documents\Vijai\github\aws-dotnet-core-samples\AWSServerlessLambdaDemo\AWSServerlessLambdaDemo\bin\Release\lambda-publish\Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+C:\Users\ramvijai\Documents\Vijai\github\aws-dotnet-core-samples\AWSServerlessLambdaDemo\AWSServerlessLambdaDemo\bin\Release\lambda-publish\Amazon.Lambda.AspNetCoreServer.dll
+C:\Users\ramvijai\Documents\Vijai\github\aws-dotnet-core-samples\AWSServerlessLambdaDemo\AWSServerlessLambdaDemo\bin\Release\lambda-publish\Amazon.Lambda.Core.dll
+C:\Users\ramvijai\Documents\Vijai\github\aws-dotnet-core-samples\AWSServerlessLambdaDemo\AWSServerlessLambdaDemo\bin\Release\lambda-publish\Amazon.Lambda.Logging.AspNetCore.dll
+C:\Users\ramvijai\Documents\Vijai\github\aws-dotnet-core-samples\AWSServerlessLambdaDemo\AWSServerlessLambdaDemo\bin\Release\lambda-publish\Amazon.Lambda.Serialization.SystemTextJson.dll
